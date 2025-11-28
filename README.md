@@ -1,5 +1,8 @@
 # Fuzzy Logic--Based Leaf Disease Diagnosis System
 
+<img width="1508" height="944" alt="Screenshot 2025-11-28 at 12 24 05 PM" src="https://github.com/user-attachments/assets/d91e0964-40a5-44e6-93e9-0f81248687ca" />
+
+
 A fuzzy-logic--based expert system designed to diagnose common plant
 leaf diseases using visible symptoms such as color deviation, spotting,
 powdery growth, and water-soaked lesions.\
@@ -46,6 +49,8 @@ Agrios, G. N. (2005). *Plant Pathology* (5th ed.). Academic Press.
 -   Wet Lesions Severity (None, Medium, High)
 
 ### Output Variable
+
+<img width="1510" height="945" alt="Screenshot 2025-11-28 at 12 19 52 PM" src="https://github.com/user-attachments/assets/c2c8a85b-49b7-4bd0-ae79-6ce5ae576dc7" />
 
 -   Most Likely Disease
 
